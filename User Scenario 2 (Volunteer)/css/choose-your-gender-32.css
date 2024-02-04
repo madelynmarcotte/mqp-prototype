@@ -1,0 +1,299 @@
+/* screen - choose-your-gender-3 */
+
+.choose-your-gender-3 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.choose-your-gender-3 .overlap-group1 {
+  align-self: flex-start;
+  height: 166px;
+  margin-top: 26px;
+  position: relative;
+  width: 389px;
+}
+
+.choose-your-gender-3 .select-the-religious {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: 389px;
+}
+
+.choose-your-gender-3 .volunteer-application {
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.choose-your-gender-3 .select-all-that-apply {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 7.0px;
+  margin-top: 9px;
+  min-height: 30px;
+  text-align: center;
+  white-space: nowrap;
+  width: 306px;
+}
+
+.choose-your-gender-3 .overlap-group3 {
+  align-self: flex-start;
+  height: 84px;
+  margin-left: -19px;
+  margin-top: 19px;
+  position: relative;
+  width: 370px;
+}
+
+.choose-your-gender-3 .rectangle-153 {
+  background-color: var(--alto);
+  height: 68px;
+  left: 218px;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.choose-your-gender-3 .rectangle-157 {
+  background-color: var(--alto);
+  height: 68px;
+  left: 43px;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.choose-your-gender-3 .name {
+  left: 233px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 123px;
+}
+
+.choose-your-gender-3 .no-religious-background {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 241px;
+}
+
+.choose-your-gender-3 .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 23px;
+  margin-top: 4px;
+  min-width: 327px;
+}
+
+.choose-your-gender-3 .overlap-group8 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  min-width: 152px;
+  padding: 19px 39px;
+}
+
+.choose-your-gender-3 .buddhist {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-width: 72px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.choose-your-gender-3 .overlap-group7 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  min-width: 152px;
+  padding: 19px 53px;
+}
+
+.choose-your-gender-3 .hindu {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-width: 45px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.choose-your-gender-3 .overlap-group-container-1 {
+  align-items: flex-start;
+  margin-top: 27px;
+  min-width: 327px;
+}
+
+.choose-your-gender-3 .overlap-group4 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 68px;
+  min-width: 152px;
+  padding: 7px 48px;
+}
+
+.choose-your-gender-3 .jewish {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-width: 56px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.choose-your-gender-3 .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 68px;
+  min-width: 152px;
+  padding: 11px 46px;
+}
+
+.choose-your-gender-3 .muslim {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-width: 59px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.choose-your-gender-3 .overlap-group-container-2 {
+  align-items: flex-end;
+  margin-left: 4.0px;
+  margin-top: 24px;
+  min-width: 331px;
+}
+
+.choose-your-gender-3 .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 68px;
+  min-width: 152px;
+  padding: 11px 59px;
+}
+
+.choose-your-gender-3 .sikh {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-width: 34px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.choose-your-gender-3 .overlap-group {
+  height: 67px;
+  position: relative;
+  width: 154px;
+}
+
+.choose-your-gender-3 .rectangle-153-1 {
+  background-color: var(--malachite);
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.choose-your-gender-3 .all-of-the-above {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 154px;
+}
+
+.choose-your-gender-3 .group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 217px;
+  margin-left: 2.0px;
+  margin-top: 29px;
+  min-width: 341px;
+}
+
+.choose-your-gender-3 .group-188 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 31px;
+  cursor: pointer;
+  display: flex;
+  height: 62px;
+  min-width: 62px;
+  padding: 18.6px 18.6px;
+}
+
+.choose-your-gender-3 .overlap-group6 {
+  border-radius: 31px;
+  height: 62px;
+  position: relative;
+  width: 62px;
+}
+
+.choose-your-gender-3 .arrowright-md-1 {
+  left: 4px;
+  position: absolute;
+  top: 21px;
+}
+
+.choose-your-gender-3 .group-175 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 31px;
+  cursor: pointer;
+  display: flex;
+  height: 62px;
+  left: 0;
+  min-width: 62px;
+  padding: 0 19px;
+  position: absolute;
+  top: 0;
+}
+
+.choose-your-gender-3 .rectangle-26 {
+  border: 1px solid;
+  border-color: var(--black);
+  height: 1px;
+  margin-top: 149px;
+  width: 375px;
+}
+
+.choose-your-gender-3 .arrowright-md-3 {
+  height: 24px;
+  width: 24px;
+}
+
+.choose-your-gender-3 .overlap-group-container-3 {
+  display: flex;
+  gap: 23px;
+}

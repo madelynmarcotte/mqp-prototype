@@ -1,0 +1,172 @@
+/* screen - choose-your-gender-1 */
+
+.choose-your-gender-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.choose-your-gender-1 .volunteer-application {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-right: 1.0px;
+  margin-top: 26px;
+  min-width: 224px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.choose-your-gender-1 .select-the-age-group {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-left: 2.0px;
+  margin-top: 17px;
+  min-height: 132px;
+  min-width: 313px;
+  text-align: center;
+}
+
+.choose-your-gender-1 .select-all-that-apply {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 13.0px;
+  margin-top: 18px;
+  min-height: 30px;
+  text-align: center;
+  white-space: nowrap;
+  width: 306px;
+}
+
+.choose-your-gender-1 .group-230 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5.0px;
+  margin-top: 37px;
+  min-height: 230px;
+  width: 194px;
+}
+
+.choose-your-gender-1 .overlap-group1 {
+  align-items: center;
+  background-color: var(--alto);
+  display: flex;
+  height: 58px;
+  margin-right: 3.0px;
+  min-width: 137px;
+  padding: 0 26px;
+}
+
+.choose-your-gender-1 .surname {
+  letter-spacing: 0;
+  line-height: 13px;
+  min-height: 44px;
+  text-align: center;
+  width: 84px;
+}
+
+.choose-your-gender-1 .span0 {
+  line-height: 25px;
+}
+
+.choose-your-gender-1 .span1 {
+  line-height: 44px;
+}
+
+.choose-your-gender-1 .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 58px;
+  margin-right: 7.0px;
+  margin-top: 30px;
+  min-width: 137px;
+  padding: 0 11px;
+}
+
+.choose-your-gender-1 .adult-26-65 {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 51px;
+  text-align: center;
+  width: 115px;
+}
+
+.choose-your-gender-1 .overlap-group {
+  height: 58px;
+  margin-right: 4.0px;
+  margin-top: 26px;
+  position: relative;
+  width: 190px;
+}
+
+.choose-your-gender-1 .rectangle-153 {
+  background-color: var(--malachite);
+  height: 58px;
+  left: 27px;
+  position: absolute;
+  top: 0;
+  width: 135px;
+}
+
+.choose-your-gender-1 .senior-65 {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 190px;
+}
+
+.choose-your-gender-1 .group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 217px;
+  margin-left: 2.0px;
+  margin-top: 88px;
+  min-width: 341px;
+}
+
+.choose-your-gender-1 .group-188 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 31px;
+  cursor: pointer;
+  display: flex;
+  height: 62px;
+  min-width: 62px;
+  padding: 18.6px 18.6px;
+}
+
+.choose-your-gender-1 .group-175 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 31px;
+  cursor: pointer;
+  display: flex;
+  height: 62px;
+  min-width: 62px;
+  padding: 0 19px;
+}
+
+.choose-your-gender-1 .arrowright-md-1 {
+  height: 24px;
+  width: 24px;
+}
+
+.choose-your-gender-1 .rectangle-26 {
+  border: 1px solid;
+  border-color: var(--black);
+  height: 1px;
+  margin-top: 149px;
+  width: 375px;
+}

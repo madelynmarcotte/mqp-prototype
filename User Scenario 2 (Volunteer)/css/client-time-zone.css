@@ -1,0 +1,179 @@
+/* screen - client-time-zone */
+
+.client-time-zone {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.client-time-zone .client-application {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-left: 3.0px;
+  margin-top: 30px;
+  min-width: 180px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-time-zone .what-is-your-time-zone {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-left: 1.0px;
+  margin-top: 72px;
+  min-height: 88px;
+  min-width: 300px;
+  text-align: center;
+}
+
+.client-time-zone .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  margin-left: 5.0px;
+  margin-top: 70px;
+  min-width: 326px;
+}
+
+.client-time-zone .overlap-group {
+  height: 76px;
+  position: relative;
+  width: 154px;
+}
+
+.client-time-zone .rectangle-153 {
+  background-color: var(--malachite-2);
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.client-time-zone .place {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 154px;
+}
+
+.client-time-zone .overlap-group2 {
+  height: 92px;
+  position: relative;
+  width: 152px;
+}
+
+.client-time-zone .place-1 {
+  left: 15px;
+  position: absolute;
+  top: 16px;
+  width: 123px;
+}
+
+.client-time-zone .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 23px;
+  margin-left: 4.0px;
+  margin-top: 10px;
+  min-width: 327px;
+}
+
+.client-time-zone .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  min-width: 152px;
+  padding: 16px 30px;
+}
+
+.client-time-zone .place-2 {
+  min-width: 91px;
+  white-space: nowrap;
+}
+
+.client-time-zone .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 68px;
+  min-width: 152px;
+  padding: 18px 36px;
+}
+
+.client-time-zone .place-3 {
+  min-width: 80px;
+  white-space: nowrap;
+}
+
+.client-time-zone .group-227 {
+  align-items: flex-start;
+  display: flex;
+  gap: 217px;
+  margin-left: 2.0px;
+  margin-top: 148px;
+  min-width: 341px;
+}
+
+.client-time-zone .group-188 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 31px;
+  cursor: pointer;
+  display: flex;
+  height: 62px;
+  min-width: 62px;
+  padding: 18.6px 18.6px;
+}
+
+.client-time-zone .arrowright-md {
+  height: 25px;
+  width: 25px;
+}
+
+.client-time-zone .group-175 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 31px;
+  cursor: pointer;
+  display: flex;
+  height: 62px;
+  min-width: 62px;
+  padding: 0 19px;
+}
+
+.client-time-zone .arrowright-md-1 {
+  height: 24px;
+  width: 24px;
+}
+
+.client-time-zone .overlap-group1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-image: url(../img/rectangle-264@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  margin-right: -1071px;
+  margin-top: 996px;
+  min-width: 100px;
+}
+
+.client-time-zone .rectangle-265 {
+  height: 100px;
+  width: 100px;
+}
+
+.client-time-zone .place-4 {
+  letter-spacing: 0;
+  line-height: 25px;
+  text-align: center;
+}

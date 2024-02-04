@@ -1,0 +1,173 @@
+/* screen - client-modes */
+
+.client-modes {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.client-modes .client-application {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-left: 3.0px;
+  margin-top: 30px;
+  min-width: 180px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-modes .overlap-group3 {
+  height: 437px;
+  margin-right: 1.0px;
+  margin-top: 85px;
+  position: relative;
+  width: 358px;
+}
+
+.client-modes .please-select-all-of {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 358px;
+}
+
+.client-modes .group-229 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 81px;
+  min-height: 230px;
+  position: absolute;
+  top: 207px;
+  width: 194px;
+}
+
+.client-modes .overlap-group2 {
+  align-items: center;
+  background-color: var(--alto);
+  display: flex;
+  height: 58px;
+  margin-right: 3.0px;
+  min-width: 137px;
+  padding: 0 26px;
+}
+
+.client-modes .live-chat {
+  letter-spacing: 0;
+  line-height: 44px;
+  text-align: center;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.client-modes .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 58px;
+  margin-right: 7.0px;
+  margin-top: 30px;
+  min-width: 137px;
+  padding: 0 11px;
+}
+
+.client-modes .audio-call {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-height: 51px;
+  text-align: center;
+  white-space: nowrap;
+  width: 115px;
+}
+
+.client-modes .overlap-group {
+  height: 58px;
+  margin-right: 4.0px;
+  margin-top: 26px;
+  position: relative;
+  width: 190px;
+}
+
+.client-modes .rectangle-153 {
+  background-color: var(--malachite-2);
+  height: 58px;
+  left: 27px;
+  position: absolute;
+  top: 0;
+  width: 135px;
+}
+
+.client-modes .video-call {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 17px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  white-space: nowrap;
+  width: 190px;
+}
+
+.client-modes .group-227 {
+  align-items: flex-start;
+  display: flex;
+  gap: 217px;
+  margin-left: 2.0px;
+  margin-top: 26px;
+  min-width: 341px;
+}
+
+.client-modes .group-188 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 31px;
+  cursor: pointer;
+  display: flex;
+  height: 62px;
+  min-width: 62px;
+  padding: 18.6px 18.6px;
+}
+
+.client-modes .arrowright-md {
+  height: 25px;
+  width: 25px;
+}
+
+.client-modes .group-175 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 31px;
+  cursor: pointer;
+  display: flex;
+  height: 62px;
+  min-width: 62px;
+  padding: 0 19px;
+}
+
+.client-modes .arrowright-md-1 {
+  height: 24px;
+  width: 24px;
+}
+
+.client-modes .rectangle-26 {
+  border: 1px solid;
+  border-color: var(--black);
+  height: 1px;
+  margin-top: 149px;
+  width: 375px;
+}

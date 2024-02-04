@@ -1,0 +1,221 @@
+/* screen - client-relationship-status */
+
+.client-relationship-status {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.client-relationship-status .client-application {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-left: 3.0px;
+  margin-top: 30px;
+  min-width: 180px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-relationship-status .title {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-left: 1.0px;
+  margin-top: 28px;
+  min-height: 138px;
+  text-align: center;
+  width: 364px;
+}
+
+.client-relationship-status .overlap-group-container {
+  align-items: flex-end;
+  display: flex;
+  gap: 21px;
+  margin-left: 2.0px;
+  margin-top: 33px;
+  min-width: 327px;
+}
+
+.client-relationship-status .ngle-container {
+  height: 67px;
+  position: relative;
+  width: 154px;
+}
+
+.client-relationship-status .rectangle-153 {
+  background-color: var(--malachite-2);
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.client-relationship-status .single-never-married {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 154px;
+}
+
+.client-relationship-status .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 68px;
+  min-width: 152px;
+  padding: 7px 0;
+}
+
+.client-relationship-status .marrieddomestic-partnership {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 50px;
+  min-width: 151px;
+  text-align: center;
+}
+
+.client-relationship-status .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 23px;
+  margin-left: 2.0px;
+  margin-top: 27px;
+  min-width: 327px;
+}
+
+.client-relationship-status .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 68px;
+  min-width: 152px;
+  padding: 19px 38px;
+}
+
+.client-relationship-status .widowed {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-width: 76px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-relationship-status .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 68px;
+  min-width: 152px;
+  padding: 19px 42px;
+}
+
+.client-relationship-status .divorced {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-width: 67px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-relationship-status .overlap-group4 {
+  align-self: flex-end;
+  height: 75px;
+  margin-right: -23px;
+  margin-top: 27px;
+  position: relative;
+  width: 373px;
+}
+
+.client-relationship-status .rectangle-156 {
+  background-color: var(--alto);
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.client-relationship-status .rectangle-157 {
+  height: 68px;
+  left: 175px;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.client-relationship-status .otherprefer-not-to-say {
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 241px;
+}
+
+.client-relationship-status .separated {
+  left: 33px;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.client-relationship-status .group-227 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  gap: 217px;
+  margin-left: 2.0px;
+  margin-top: 84px;
+  min-width: 341px;
+}
+
+.client-relationship-status .group-188 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 31px;
+  cursor: pointer;
+  display: flex;
+  height: 62px;
+  justify-content: flex-end;
+  min-width: 62px;
+  padding: 18.6px 18.6px;
+}
+
+.client-relationship-status .arrowright-md {
+  height: 25px;
+  width: 25px;
+}
+
+.client-relationship-status .group-175 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 31px;
+  display: flex;
+  height: 62px;
+  min-width: 62px;
+  padding: 0 19px;
+}
+
+.client-relationship-status .arrowright-md-1 {
+  height: 24px;
+  width: 24px;
+}
+
+.client-relationship-status .rectangle-26 {
+  border: 1px solid;
+  border-color: var(--black);
+  height: 1px;
+  margin-top: 149px;
+  width: 375px;
+}

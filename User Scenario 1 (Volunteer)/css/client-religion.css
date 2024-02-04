@@ -1,0 +1,281 @@
+/* screen - client-religion */
+
+.client-religion {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.client-religion .client-application {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-left: 3.0px;
+  margin-top: 30px;
+  min-width: 180px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-religion .are-you-religious-o {
+  align-self: flex-start;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 31px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 44px;
+  min-height: 132px;
+  text-align: center;
+  width: 389px;
+}
+
+.client-religion .select-all-that-apply {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 19.0px;
+  min-height: 30px;
+  text-align: center;
+  white-space: nowrap;
+  width: 306px;
+}
+
+.client-religion .group-218 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-right: -31px;
+  margin-top: 22px;
+  min-height: 353px;
+  width: 388px;
+}
+
+.client-religion .flex-row {
+  align-items: flex-end;
+  display: flex;
+  gap: 20px;
+  height: 251px;
+  min-width: 327px;
+}
+
+.client-religion .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 250px;
+  width: 155px;
+}
+
+.client-religion .overlap-group {
+  height: 67px;
+  margin-left: 1px;
+  position: relative;
+  width: 154px;
+}
+
+.client-religion .rectangle-153 {
+  background-color: var(--malachite-2);
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.client-religion .no-religious-background {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  width: 154px;
+}
+
+.client-religion .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  margin-top: 20px;
+  min-width: 152px;
+  padding: 18px 39px;
+}
+
+.client-religion .buddhist {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-width: 72px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-religion .overlap-group5 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 68px;
+  margin-top: 27px;
+  min-width: 152px;
+  padding: 6px 48px;
+}
+
+.client-religion .jewish {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-width: 56px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-religion .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 251px;
+  width: 152px;
+}
+
+.client-religion .overlap-group6 {
+  height: 85px;
+  position: relative;
+  width: 152px;
+}
+
+.client-religion .name {
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 123px;
+}
+
+.client-religion .overlap-group4 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  margin-top: 3px;
+  min-width: 152px;
+  padding: 18px 53px;
+}
+
+.client-religion .hindu {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-width: 45px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-religion .overlap-group3 {
+  align-items: center;
+  background-color: var(--alto);
+  display: flex;
+  height: 68px;
+  margin-top: 27px;
+  min-width: 152px;
+  padding: 0 46px;
+}
+
+.client-religion .muslim {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-width: 59px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-religion .overlap-group2 {
+  height: 78px;
+  position: relative;
+  width: 374px;
+}
+
+.client-religion .rectangle-157 {
+  background-color: var(--alto);
+  height: 68px;
+  left: 175px;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.client-religion .otherprefer-not-to-say {
+  left: 133px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 241px;
+}
+
+.client-religion .sikh {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.client-religion .group-227 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  gap: 217px;
+  margin-left: 2.0px;
+  margin-top: 11px;
+  min-width: 341px;
+}
+
+.client-religion .group-188 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 31px;
+  cursor: pointer;
+  display: flex;
+  height: 62px;
+  justify-content: flex-end;
+  min-width: 62px;
+  padding: 18.6px 18.6px;
+}
+
+.client-religion .arrowright-md {
+  height: 25px;
+  width: 25px;
+}
+
+.client-religion .group-175 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 31px;
+  display: flex;
+  height: 62px;
+  min-width: 62px;
+  padding: 0 19px;
+}
+
+.client-religion .arrowright-md-1 {
+  height: 24px;
+  width: 24px;
+}
+
+.client-religion .rectangle-26 {
+  border: 1px solid;
+  border-color: var(--black);
+  height: 1px;
+  margin-top: 149px;
+  width: 375px;
+}

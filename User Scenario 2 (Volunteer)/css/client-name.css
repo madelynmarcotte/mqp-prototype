@@ -1,0 +1,363 @@
+/* screen - client-section-one */
+
+.client-section-one {
+  background-color: #ffffff;
+  height: 812px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.client-section-one .rectangle-26-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 833px;
+  width: 375px;
+}
+
+.client-section-one .section-1-general-information-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 108px;
+  width: auto;
+}
+
+.client-section-one .group-176-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 92px;
+  left: 65px;
+  opacity: 1;
+  position: absolute;
+  top: 609px;
+  width: 245px;
+}
+
+.client-section-one .rectangle-153-jxV5iz {
+  --z-index: 0;
+  background-color: #ececec;
+  height: 92px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 245px;
+}
+
+.client-section-one .group-185-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 92px;
+  left: 66px;
+  opacity: 1;
+  position: absolute;
+  top: 609px;
+  width: 165px;
+}
+
+.client-section-one .rectangle-153-hrEtUG {
+  --z-index: 0;
+  background-color: #ececec;
+  height: 92px;
+  left: 26px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 127px;
+}
+
+.client-section-one .continue-to-general-information-hrEtUG {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 163px;
+}
+
+.client-section-one .group-175-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  cursor: pointer;
+  height: 62px;
+  left: 225px;
+  opacity: 1;
+  position: absolute;
+  top: 624px;
+  width: 62px;
+}
+
+.client-section-one .group-207-CtRApj {
+  --z-index: 0;
+  background-color: transparent;
+  height: 62px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 62px;
+}
+
+.client-section-one .ellipse-98-6660Og {
+  --z-index: 0;
+  background-color: #000000;
+  border-radius: 31px;
+  height: 62px;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 62px;
+}
+
+.client-section-one .arrowright-md-CtRApj {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/arrow-right-md-17.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 19px;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  width: 24px;
+}
+
+.client-section-one .client-application-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 99px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-section-one .well-use-your-answe-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 274px;
+  width: 346px;
+}
+/* screen - client-name */
+
+.client-name {
+  background-color: #ffffff;
+  height: 812px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.client-name .what-is-your-name-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 146px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-name .rectangle-156-C61RwL {
+  --z-index: 1;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #7f7f7f;
+  border-radius: 6px;
+  height: 64px;
+  left: 49px;
+  opacity: 1;
+  position: absolute;
+  top: 361px;
+  width: 273px;
+}
+
+.client-name .name-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 63px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 380px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-name .client-application-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Poppins', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 99px;
+  letter-spacing: 0.00px;
+  line-height: 44px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.client-name .group-227-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 62px;
+  left: 18px;
+  opacity: 1;
+  position: absolute;
+  top: 622px;
+  width: 341px;
+}
+
+.client-name .group-175-rHRxZV {
+  --z-index: 0;
+  background-color: transparent;
+  cursor: pointer;
+  height: 62px;
+  left: 279px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 62px;
+}
+
+.client-name .ellipse-98-4PQVwA {
+  --z-index: 0;
+  background-color: #000000;
+  border-radius: 31px;
+  height: 62px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 62px;
+}
+
+.client-name .arrowright-md-4PQVwA {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/arrow-right-md-17.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 19px;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  width: 24px;
+}
+
+.client-name .group-188-rHRxZV {
+  --z-index: 1;
+  background-color: transparent;
+  cursor: pointer;
+  height: 62px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 62px;
+}
+
+.client-name .ellipse-98-exKXT8 {
+  --z-index: 0;
+  background-color: #000000;
+  border-radius: 31px;
+  height: 62px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 62px;
+}
+
+.client-name .arrowright-md-exKXT8 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/arrow-right-md-16.svg);
+  background-size: 100% 100%;
+  height: 25px;
+  left: 19px;
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  width: 25px;
+}

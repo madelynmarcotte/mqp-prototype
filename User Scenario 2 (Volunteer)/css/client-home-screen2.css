@@ -1,0 +1,205 @@
+/* screen - client-home-screen2 */
+
+.client-home-screen2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  width: 375px;
+}
+
+.client-home-screen2 .group-164 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 20px;
+  margin-top: 67px;
+  min-width: 133px;
+}
+
+.client-home-screen2 .hello-john-doe {
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  height: 62px;
+  letter-spacing: -0.28px;
+  line-height: 32px;
+}
+
+.client-home-screen2 .span0 {
+  color: #b9b9b9;
+}
+
+.client-home-screen2 .span1 {
+  color: var(--black);
+  font-size: 28px;
+}
+
+.client-home-screen2 .overlap-group2 {
+  align-self: center;
+  height: 533px;
+  margin-left: 1.0px;
+  position: relative;
+  width: 360px;
+}
+
+.client-home-screen2 .group-191 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 12px;
+  min-height: 426px;
+  position: absolute;
+  top: 107px;
+  width: 335px;
+}
+
+.client-home-screen2 .overlap-group1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  min-width: 40px;
+  padding: 0 10px;
+}
+
+.client-home-screen2 .interfacebookmark {
+  height: 20px;
+  width: 20px;
+}
+
+.client-home-screen2 .group-container {
+  align-self: flex-start;
+  height: 72px;
+  margin-top: 291px;
+  position: relative;
+  width: 322px;
+}
+
+.client-home-screen2 .group-165 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 72px;
+  position: absolute;
+  top: 0;
+  width: 322px;
+}
+
+.client-home-screen2 .name {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 32px;
+  letter-spacing: 2.00px;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.client-home-screen2 .the-first-step-towar {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  height: 40px;
+  letter-spacing: -0.28px;
+  line-height: 20px;
+}
+
+.client-home-screen2 .group-172 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 20px;
+  left: 3px;
+  min-width: 218px;
+  position: absolute;
+  top: 10px;
+}
+
+.client-home-screen2 .view-your-provider-matches {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  height: 20px;
+  letter-spacing: -0.28px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.client-home-screen2 .interfacelove {
+  height: 20px;
+  margin-top: 3px;
+  width: 20px;
+}
+
+.client-home-screen2 .image-7 {
+  height: 360px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.client-home-screen2 .group-192 {
+  align-items: center;
+  background-color: #f7f7f7;
+  display: flex;
+  height: 98px;
+  margin-top: 52px;
+  min-width: 375px;
+  padding: 15px 40px;
+}
+
+.client-home-screen2 .place {
+  color: var(--malachite);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 7.0px;
+  min-width: 30px;
+}
+
+.client-home-screen2 .group-169 {
+  align-items: flex-end;
+  align-self: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 45px;
+  margin-left: 39px;
+  min-width: 45px;
+}
+
+.client-home-screen2 .account {
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  min-width: 43px;
+}
+
+.client-home-screen2 .history {
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 47px;
+  margin-top: 7.0px;
+  min-width: 35px;
+}
+
+.client-home-screen2 .who-we-are {
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 39px;
+  margin-top: 7.0px;
+  min-width: 60px;
+}
