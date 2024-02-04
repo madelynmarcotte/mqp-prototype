@@ -1,0 +1,233 @@
+/* screen - client-match-view */
+
+.client-match-view {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  padding: 35px 19px;
+  width: 375px;
+}
+
+.client-match-view .group-189 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 31px;
+  display: flex;
+  height: 62px;
+  margin-left: 2px;
+  min-width: 62px;
+  padding: 18.6px 18.6px;
+}
+
+.client-match-view .your-matches {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2px;
+  margin-top: 15px;
+  min-height: 27px;
+}
+
+.client-match-view .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 22px;
+  height: 60px;
+  margin-left: 1px;
+  margin-top: 21px;
+  min-width: 168px;
+}
+
+.client-match-view .number {
+  color: var(--malachite);
+  font-family: var(--font-family-poppins);
+  font-size: 52px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 60px;
+  min-width: 31px;
+  white-space: nowrap;
+}
+
+.client-match-view .licensed-providers-a {
+  color: #959595;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: 3.0px;
+  min-height: 39px;
+  min-width: 113px;
+}
+
+.client-match-view .overlap-group {
+  align-self: center;
+  margin-top: 41px;
+}
+
+.client-match-view .frame-41 {
+  align-items: center;
+  background-color: var(--cultured-pearl);
+  display: flex;
+  gap: 97px;
+  height: 130px;
+  left: 0;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.client-match-view .group-201 {
+  height: 80px;
+  position: relative;
+  width: 147px;
+}
+
+.client-match-view .frame-53 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.client-match-view .frame-50 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.client-match-view .name {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.client-match-view .group-200 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 147px;
+}
+
+.client-match-view .x-full-bio {
+  height: 60px;
+  left: 0;
+  letter-spacing: -0.28px;
+  line-height: 15px;
+  position: absolute;
+  top: -1px;
+}
+
+.client-match-view .x-match {
+  height: 15px;
+  left: 0;
+  letter-spacing: -0.28px;
+  line-height: 15px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.client-match-view .image {
+  height: 130px;
+  left: 232px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.client-match-view .overlap-group2 {
+  align-self: flex-end;
+  margin-top: 29px;
+}
+
+.client-match-view .frame-42 {
+  align-items: center;
+  background-color: var(--cultured-pearl);
+  display: flex;
+  gap: 140px;
+  height: 130px;
+  left: 0;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.client-match-view .group-201-1 {
+  width: 130px;
+}
+
+.client-match-view .group-200-1 {
+  width: 130px;
+}
+
+.client-match-view .image-3 {
+  height: 130px;
+  left: 231px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.client-match-view .overlap-group1 {
+  align-self: center;
+  margin-top: 29px;
+}
+
+.client-match-view .frame-43 {
+  align-items: center;
+  background-color: var(--cultured-pearl);
+  display: flex;
+  gap: 82px;
+  height: 130px;
+  left: 0;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.client-match-view .group-201-2 {
+  width: 108px;
+}
+
+.client-match-view .group-200-2 {
+  width: 86px;
+}
+
+.client-match-view .group-200-3 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+}
+
+.client-match-view .group-201-3 {
+  height: 80px;
+  position: relative;
+}
+
+.client-match-view .overlap {
+  height: 130px;
+  position: relative;
+  width: 335px;
+}

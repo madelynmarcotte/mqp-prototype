@@ -8,31 +8,80 @@
     <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
     <meta name="og:type" content="website" />
     <meta name="twitter:card" content="photo" />
-    <link rel="stylesheet" type="text/css" href="css/volunteer-name2.css" />
-    <link rel="stylesheet" type="text/css" href="css/styleguide3.css" />
-    <link rel="stylesheet" type="text/css" href="css/globals3.css" />
+    <link rel="stylesheet" type="text/css" href="css/how-many-hours-do-you-sleep-32.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide2.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals2.css" />
   </head>
   <body style="margin: 0; background: #ffffff">
-    <input type="hidden" id="anPageName" name="page" value="volunteer-name2" />
+    <input type="hidden" id="anPageName" name="page" value="how-many-hours-do-you-sleep-3" />
     <div class="container-center-horizontal">
-      <div class="volunteer-name2 screen">
+      <div class="how-many-hours-do-you-sleep-3 screen">
         <div class="volunteer-application poppins-medium-black-20px">Volunteer Application</div>
-        <h1 class="title poppins-medium-black-34px">What is your name?</h1>
-        <!-- <div class="overlap-group"><div class="name">John Doe</div></div> -->
+        <h1 class="please-provide-your poppins-medium-black-34px">
+          What is your name?
+        </h1>
+        <div class="license-number1">First Name</div>
+        
+        <style>
+        input[type=text], select {
+  font-size: 20px;
+  width: 100%;
+  padding: 20px 20px;
+  margin: 0px 0;
+  display: inline-block;
+  border: 2px solid #ccc;
+  border-radius: 9px;
+  box-sizing: border-box;
+}
 
-        <!-- input field for user to insert name -->
+/*style the arrow inside the select element:*/
+.select:after {
+  position: absolute;
+  content: "";
+  top: 10px;
+  right: 8px;
+  width: 0;
+  height: 0;
+  border: 6px solid transparent;
+  border-color: #fff transparent transparent transparent;
+}
+
+.license-number1 {
+  color: #717171;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-right: 8.0px;
+  margin-top: 0px;
+  min-width: 161px;
+  text-align: center;
+  white-space: nowrap;
+}
+        </style>
+
+
+         <!-- input field for user to insert name -->
         <div class= "container-center-horizontal">
         <form action="/action_page.php">
-        <input type="text" id="fname" name="fname"><br><br>
+        <input type="text" id="licensenum" name="licensenum"><br><br>
         </form>
         </div>
 
+        <div class="license-expiration-date">Last Name</div>
+         <!-- input field for user to insert name -->
+        <div class= "container-center-horizontal">
+        <form action="/action_page.php">
+        <input type="text" id="expdate" name="expdate"><br><br>
+        </form>
+        </div>
         <div class="group-container">
           <a href="volunteer-general-info.html">
             <div class="group-188">
-              <img class="arrowright-md" src="img/arrow-right-md-6.svg" alt="arrow/right-md" /></div></a
+              <img class="arrowright-md" src="img/arrow-right-md-16.svg" alt="arrow/right-md" /></div></a
           >
-          <!-- <a href="choose-your-gender-1.html">
+          <!--<a href="how-many-hours-do-you-sleep-4.html">
             <div class="group-175">
               <img class="arrowright-md-1" src="img/arrow-right-md-5.svg" alt="arrow/right-md" /></div
           ></a> -->
@@ -42,13 +91,9 @@
               <img class="arrowright-md" src="img/arrow-right-md-2.svg" alt="arrow/right-md" /></div
           ></a>
 
-
-          <!-- <div class="group-188"><img class="arrowright-md" src="img/arrow-right-md-2.svg" alt="arrow/right-md" /></div>
-          <div class="group-175">
-            <img class="arrowright-md-1" src="img/arrow-right-md-5.svg" alt="arrow/right-md" />
-          </div> -->
         </div>
       </div>
     </div>
   </body>
 </html>
+
