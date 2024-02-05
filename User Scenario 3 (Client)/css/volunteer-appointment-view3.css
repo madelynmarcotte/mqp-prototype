@@ -1,0 +1,266 @@
+/* screen - volunteer-appointment-view3 */
+
+.volunteer-appointment-view3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  padding: 35px 0;
+  width: 375px;
+}
+
+.volunteer-appointment-view3 .group-189 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 31px;
+  display: flex;
+  height: 62px;
+  margin-left: 21px;
+  min-width: 62px;
+  padding: 18.6px 18.6px;
+}
+
+.volunteer-appointment-view3 .your-appointments {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 21px;
+  margin-top: 15px;
+  min-height: 27px;
+}
+
+.volunteer-appointment-view3 .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 22px;
+  height: 60px;
+  margin-left: 20px;
+  margin-top: 21px;
+  min-width: 197px;
+}
+
+.volunteer-appointment-view3 .number {
+  color: var(--malachite);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 60px;
+  min-width: 31px;
+  white-space: nowrap;
+}
+
+.volunteer-appointment-view3 .sessions-are-schedul {
+  color: #959595;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: 12.0px;
+  min-height: 26px;
+  min-width: 142px;
+}
+
+.volunteer-appointment-view3 .overlap-group4 {
+  align-self: center;
+  height: 130px;
+  margin-top: 41px;
+  position: relative;
+  width: 335px;
+}
+
+.volunteer-appointment-view3 .frame-4 {
+  align-items: center;
+  background-color: var(--cultured-pearl);
+  display: flex;
+  gap: 97px;
+  height: 130px;
+  left: 0;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.volunteer-appointment-view3 .group-201 {
+  height: 80px;
+  position: relative;
+  width: 221px;
+}
+
+.volunteer-appointment-view3 .overlap-group-1 {
+  height: 80px;
+  position: relative;
+}
+
+.volunteer-appointment-view3 .name-1 {
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 41px;
+  left: 0;
+  line-height: 20px;
+  position: absolute;
+  top: -1px;
+}
+
+.volunteer-appointment-view3 .span0 {
+  letter-spacing: -0.28px;
+}
+
+.volunteer-appointment-view3 .span1 {
+  letter-spacing: 0;
+}
+
+.volunteer-appointment-view3 .frame-47 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 147px;
+}
+
+.volunteer-appointment-view3 .group-228 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 30px;
+  left: 14px;
+  min-width: 165px;
+  position: absolute;
+  top: 80px;
+}
+
+.volunteer-appointment-view3 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--malachite);
+  display: flex;
+  height: 30px;
+  justify-content: flex-end;
+  min-width: 163px;
+  padding: 4px 0;
+}
+
+.volunteer-appointment-view3 .view-screening-results {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: 15px;
+  width: 151px;
+}
+
+.volunteer-appointment-view3 .overlap-group {
+  align-self: center;
+  height: 130px;
+  margin-top: 31px;
+  position: relative;
+  width: 335px;
+}
+
+.volunteer-appointment-view3 .group-201-1 {
+  width: 211px;
+}
+
+.volunteer-appointment-view3 .frame-53 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  position: relative;
+}
+
+.volunteer-appointment-view3 .frame-50 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.volunteer-appointment-view3 .name {
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.volunteer-appointment-view3 .group-232 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 30px;
+  left: 14px;
+  min-width: 165px;
+  position: absolute;
+  top: 86px;
+}
+
+.volunteer-appointment-view3 .overlap-group2 {
+  align-items: center;
+  background-color: var(--malachite);
+  display: flex;
+  height: 30px;
+  justify-content: flex-end;
+  min-width: 163px;
+  padding: 0 10px;
+}
+
+.volunteer-appointment-view3 .view-screening-results-1 {
+  height: 18px;
+  white-space: nowrap;
+  width: 142px;
+}
+
+.volunteer-appointment-view3 .group-201-2 {
+  width: 210px;
+}
+
+.volunteer-appointment-view3 .group-234 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 33px;
+  left: 14px;
+  min-width: 186px;
+  position: absolute;
+  top: 86px;
+}
+
+.volunteer-appointment-view3 .overlap-group3 {
+  height: 33px;
+  position: relative;
+  width: 184px;
+}
+
+.volunteer-appointment-view3 .rectangle-154 {
+  background-color: var(--malachite);
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 163px;
+}
+
+.volunteer-appointment-view3 .view-screening-results-2 {
+  height: 24px;
+  left: 12px;
+  position: absolute;
+  top: 4px;
+  width: 172px;
+}
+
+.volunteer-appointment-view3 .group-201-3 {
+  height: 62px;
+  position: relative;
+}
+
+.volunteer-appointment-view3 .view-screening-results-3 {
+  letter-spacing: 0;
+  line-height: 15px;
+}

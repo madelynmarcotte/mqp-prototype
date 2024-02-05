@@ -1,0 +1,229 @@
+/* screen - client-sexual-orientation */
+
+.client-sexual-orientation {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.client-sexual-orientation .client-application {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-left: 3.0px;
+  margin-top: 30px;
+  min-width: 180px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-sexual-orientation .what-is-your-sexual-orientation {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-left: 2.0px;
+  margin-top: 72px;
+  min-height: 88px;
+  min-width: 341px;
+  text-align: center;
+}
+
+.client-sexual-orientation .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 45px;
+  margin-right: 6.0px;
+  margin-top: 40px;
+  min-width: 319px;
+}
+
+.client-sexual-orientation .overlap-group {
+  height: 58px;
+  position: relative;
+  width: 137px;
+}
+
+.client-sexual-orientation .rectangle-153 {
+  background-color: var(--malachite-2);
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 135px;
+}
+
+.client-sexual-orientation .heterosexual-straight {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: 137px;
+}
+
+.client-sexual-orientation .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  min-width: 137px;
+  padding: 6px 10px;
+}
+
+.client-sexual-orientation .gay-lesbian {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-width: 116px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-sexual-orientation .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 45px;
+  margin-right: 6.0px;
+  margin-top: 27px;
+  min-width: 319px;
+}
+
+.client-sexual-orientation .overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 58px;
+  min-width: 137px;
+  padding: 6px 33px;
+}
+
+.client-sexual-orientation .asexual {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-width: 71px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-sexual-orientation .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 58px;
+  min-width: 137px;
+  padding: 6px 31px;
+}
+
+.client-sexual-orientation .bisexual {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-width: 75px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-sexual-orientation .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  min-width: 137px;
+  padding: 6px 26px;
+}
+
+.client-sexual-orientation .pansexual {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-width: 83px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-sexual-orientation .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  min-width: 137px;
+  padding: 6px 43px;
+}
+
+.client-sexual-orientation .queer {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-width: 49px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-sexual-orientation .overlap-group4 {
+  height: 62px;
+  margin-left: 2.0px;
+  margin-top: 120px;
+  position: relative;
+  width: 341px;
+}
+
+.client-sexual-orientation .arrowright-md {
+  height: 25px;
+  left: 37px;
+  position: absolute;
+  top: 19px;
+  width: 25px;
+}
+
+.client-sexual-orientation .group-227 {
+  align-items: flex-start;
+  cursor: pointer;
+  gap: 217px;
+  left: 0;
+  min-width: 341px;
+  position: absolute;
+  top: 0;
+}
+
+.client-sexual-orientation .group-188 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 31px;
+  cursor: pointer;
+  justify-content: flex-end;
+  min-width: 62px;
+  padding: 18.6px 18.6px;
+}
+
+.client-sexual-orientation .arrowright-md-1 {
+  height: 25px;
+  width: 25px;
+}
+
+.client-sexual-orientation .group-175 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 31px;
+  min-width: 62px;
+  padding: 0 19px;
+}
+
+.client-sexual-orientation .arrowright-md-2 {
+  height: 24px;
+  width: 24px;
+}
+
+.client-sexual-orientation .rectangle-26 {
+  border: 1px solid;
+  border-color: var(--black);
+  height: 1px;
+  margin-top: 149px;
+  width: 375px;
+}
+
+.client-sexual-orientation .group {
+  display: flex;
+  height: 62px;
+}

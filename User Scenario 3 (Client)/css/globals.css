@@ -1,0 +1,116 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Poppins:500,400|Montserrat:400");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/65aad8a8d35ae09ff1b77e69.65aad8a8d35ae09ff1b77e6c.bWfrxRU.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-end {
+  align-self: flex-end;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.get-started-now {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.rectangle-153-1 {
+  background-color: var(--alto);
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.arrowleft-md {
+  height: 25px;
+  width: 25px;
+}
+
+.flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.email {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-22 {
+  background-color: var(--gray-nurse);
+  gap: 205px;
+  height: 51px;
+  margin-top: 28px;
+  padding: 10px 20px;
+}
+
+.password {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.interfaceeye {
+  height: 22px;
+  position: relative;
+  width: 22px;
+}
+
+.continue {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.sign-in-with-phone-number {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame {
+  align-items: center;
+  display: flex;
+  position: relative;
+  width: 335px;
+}

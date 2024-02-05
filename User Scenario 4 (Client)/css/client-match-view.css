@@ -1,0 +1,290 @@
+/* screen - client-match-view */
+
+.client-match-view {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  padding: 35px 0;
+  width: 375px;
+}
+
+.client-match-view .group-189 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 31px;
+  display: flex;
+  height: 62px;
+  margin-left: 21px;
+  min-width: 62px;
+  padding: 18.6px 18.6px;
+}
+
+.client-match-view .your-matches {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 21px;
+  margin-top: 15px;
+  min-height: 27px;
+}
+
+.client-match-view .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 22px;
+  height: 60px;
+  margin-left: 20px;
+  margin-top: 21px;
+  min-width: 168px;
+}
+
+.client-match-view .number {
+  color: var(--malachite);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 60px;
+  min-width: 31px;
+  white-space: nowrap;
+}
+
+.client-match-view .licensed-providers-a {
+  color: #959595;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: 3.0px;
+  min-height: 39px;
+  min-width: 113px;
+}
+
+.client-match-view .overlap-group7 {
+  align-self: center;
+  height: 130px;
+  margin-top: 41px;
+  position: relative;
+  width: 335px;
+}
+
+.client-match-view .frame-4 {
+  align-items: center;
+  background-color: var(--cultured-pearl);
+  display: flex;
+  gap: 97px;
+  height: 130px;
+  left: 0;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.client-match-view .group-201 {
+  height: 80px;
+  position: relative;
+  width: 147px;
+}
+
+.client-match-view .overlap-group-2 {
+  height: 80px;
+  position: relative;
+}
+
+.client-match-view .name-1 {
+  height: 60px;
+  left: 0;
+  line-height: 20px;
+  position: absolute;
+  top: -1px;
+}
+
+.client-match-view .span {
+  letter-spacing: 0;
+}
+
+.client-match-view .span1 {
+  letter-spacing: -0.28px;
+}
+
+.client-match-view .frame-47 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 147px;
+}
+
+.client-match-view .image {
+  height: 130px;
+  left: 232px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.client-match-view .group-23 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 28px;
+  left: 102px;
+  min-width: 83px;
+  position: absolute;
+  top: 91px;
+}
+
+.client-match-view .overlap-group {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 28px;
+  justify-content: flex-end;
+  min-width: 81px;
+  padding: 3px 6px;
+}
+
+.client-match-view .confirm-appointment {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: 10px;
+  text-align: center;
+  width: 68px;
+}
+
+.client-match-view .group-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 28px;
+  left: 14px;
+  min-width: 82px;
+  position: absolute;
+  top: 91px;
+}
+
+.client-match-view .overlap-group-1 {
+  height: 28px;
+  position: relative;
+  width: 80px;
+}
+
+.client-match-view .rectangle-154 {
+  background-color: var(--malachite);
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 78px;
+}
+
+.client-match-view .view-bio {
+  height: 21px;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 4px;
+  width: 68px;
+}
+
+.client-match-view .overlap-group9 {
+  align-self: center;
+  height: 131px;
+  margin-top: 30px;
+  position: relative;
+  width: 335px;
+}
+
+.client-match-view .frame-43 {
+  align-items: center;
+  background-color: var(--cultured-pearl);
+  display: flex;
+  gap: 97px;
+  height: 130px;
+  left: 0;
+  padding: 10px;
+  position: absolute;
+  top: 1px;
+  width: 335px;
+}
+
+.client-match-view .group-201-1 {
+  width: 145px;
+}
+
+.client-match-view .frame-53 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  position: relative;
+}
+
+.client-match-view .frame-50 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.client-match-view .name {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.client-match-view .group-231 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 28px;
+  left: 102px;
+  min-width: 83px;
+  position: absolute;
+  top: 92px;
+}
+
+.client-match-view .group-232 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 28px;
+  left: 14px;
+  min-width: 82px;
+  position: absolute;
+  top: 92px;
+}
+
+.client-match-view .image-5 {
+  height: 131px;
+  left: 232px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.client-match-view .overlap-group8 {
+  align-self: center;
+  height: 130px;
+  margin-top: 31px;
+  position: relative;
+  width: 335px;
+}
+
+.client-match-view .group-201-2 {
+  width: 108px;
+}
+
+.client-match-view .group-201-3 {
+  height: 80px;
+  position: relative;
+}
