@@ -1,0 +1,101 @@
+/* screen - confirm-scott */
+
+.confirm-scott {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 812px;
+  padding: 35px 17px;
+  width: 375px;
+}
+
+.confirm-scott .overlap-group3 {
+  height: 456px;
+  position: relative;
+  width: 335px;
+}
+
+.confirm-scott .overlap-group1 {
+  height: 437px;
+  left: 0;
+  position: absolute;
+  top: 19px;
+  width: 335px;
+}
+
+.confirm-scott .overlap-group2 {
+  height: 420px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.confirm-scott .frame-41 {
+  background-color: var(--cultured-pearl);
+  height: 318px;
+  left: 0;
+  position: absolute;
+  top: 102px;
+  width: 335px;
+}
+
+.confirm-scott .image {
+  height: 147px;
+  left: 217px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 118px;
+}
+
+.confirm-scott .group-235 {
+  align-items: flex-start;
+  cursor: pointer;
+  height: 43px;
+  left: 96px;
+  min-width: 124px;
+  top: 342px;
+}
+
+.confirm-scott .overlap-group {
+  align-items: flex-start;
+  background-color: var(--malachite);
+  display: flex;
+  height: 43px;
+  min-width: 122px;
+  padding: 7.2px 0;
+}
+
+.confirm-scott .confirm-appointment {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 19px;
+  text-align: center;
+  width: 122px;
+}
+
+.confirm-scott .retired-psychiatrist {
+  left: 16px;
+  letter-spacing: -0.28px;
+  line-height: 15px;
+  position: absolute;
+  top: 116px;
+  width: 311px;
+}
+
+.confirm-scott .group-189 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 31px;
+  height: 62px;
+  left: 4px;
+  min-width: 62px;
+  padding: 0 18.6px;
+  top: 0;
+}
+
+.confirm-scott .group {
+  display: flex;
+  position: absolute;
+}

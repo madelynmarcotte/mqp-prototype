@@ -1,0 +1,241 @@
+/* screen - choose-your-gender-2 */
+
+.choose-your-gender-2 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.choose-your-gender-2 .volunteer-application {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-top: 26px;
+  min-width: 219px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.choose-your-gender-2 .what-is-your-gender-identity {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-left: 1.0px;
+  margin-top: 76px;
+  min-height: 88px;
+  min-width: 354px;
+  text-align: center;
+}
+
+.choose-your-gender-2 .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 47px;
+  margin-right: 6.0px;
+  margin-top: 40px;
+  min-width: 319px;
+}
+
+.choose-your-gender-2 .overlap-group {
+  align-items: flex-end;
+  background-color: var(--malachite-2);
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  min-width: 135px;
+  padding: 7px 23px;
+}
+
+.choose-your-gender-2 .overlap-group2 {
+  height: 76px;
+  position: relative;
+  width: 154px;
+}
+
+.choose-your-gender-2 .place {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 44px;
+  min-height: 40px;
+  text-align: center;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.choose-your-gender-2 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  min-width: 137px;
+  padding: 6px 31px;
+}
+
+.choose-your-gender-2 .woman {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-width: 73px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.choose-your-gender-2 .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 45px;
+  margin-right: 6.0px;
+  margin-top: 27px;
+  min-width: 319px;
+}
+
+.choose-your-gender-2 .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 58px;
+  min-width: 137px;
+  padding: 6px 29px;
+}
+
+.choose-your-gender-2 .agender {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-width: 78px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.choose-your-gender-2 .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 58px;
+  min-width: 137px;
+  padding: 6px 16px;
+}
+
+.choose-your-gender-2 .non-binary {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-width: 105px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.choose-your-gender-2 .overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  min-width: 137px;
+  padding: 6px 10px;
+}
+
+.choose-your-gender-2 .transfeminine {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-width: 116px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.choose-your-gender-2 .overlap-group2 {
+  align-items: flex-start;
+  /*background-color: var(--alto);*/
+  display: flex;
+  height: 58px;
+  justify-content: flex-end;
+  min-width: 137px;
+  padding: 6px 3px;
+}
+
+.choose-your-gender-2 .transmasculine {
+  letter-spacing: 0;
+  line-height: 44px;
+  min-width: 130px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.choose-your-gender-2 .overlap-group4 {
+  height: 71px;
+  margin-left: 10.0px;
+  margin-top: 27px;
+  position: relative;
+  width: 241px;
+}
+
+.choose-your-gender-2 .rectangle-158 {
+  background-color: var(--alto);
+  height: 68px;
+  left: 48px;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.choose-your-gender-2 .otherprefer-not-to-say {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 241px;
+}
+
+.choose-your-gender-2 .group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 217px;
+  margin-left: 2.0px;
+  margin-top: 22px;
+  min-width: 341px;
+}
+
+.choose-your-gender-2 .group-188 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 31px;
+  cursor: pointer;
+  display: flex;
+  height: 62px;
+  min-width: 62px;
+  padding: 18.6px;
+}
+
+.choose-your-gender-2 .arrowright-md {
+  height: 25px;
+  width: 25px;
+}
+
+.choose-your-gender-2 .group-175 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 31px;
+  cursor: pointer;
+  display: flex;
+  height: 62px;
+  min-width: 62px;
+  padding: 0 19px;
+}
+
+.choose-your-gender-2 .arrowright-md-1 {
+  height: 24px;
+  width: 24px;
+}
+
+.choose-your-gender-2 .rectangle-26 {
+  border: 1px solid;
+  border-color: var(--black);
+  height: 1px;
+  margin-top: 149px;
+  width: 375px;
+}

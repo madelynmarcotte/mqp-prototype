@@ -1,0 +1,98 @@
+/* screen - client-section-3 */
+
+.client-section-3 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.client-section-3 .client-application {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-left: 3.0px;
+  margin-top: 30px;
+  min-width: 180px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.client-section-3 .section-3-personal-experience {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-right: 6.0px;
+  margin-top: 26px;
+  min-height: 88px;
+  min-width: 343px;
+  text-align: center;
+}
+
+.client-section-3 .please-answer-as-man {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 9.0px;
+  margin-top: 32px;
+  min-height: 200px;
+  text-align: center;
+  width: 306px;
+}
+
+.client-section-3 .overlap-group {
+  height: 92px;
+  margin-left: 9.0px;
+  margin-top: 192px;
+  position: relative;
+  width: 246px;
+}
+
+.client-section-3 .group-186 {
+  background-color: var(--cararra);
+  height: 92px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 245px;
+}
+
+.client-section-3 .group-175 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 31px;
+  display: flex;
+  height: 62px;
+  left: 150px;
+  min-width: 62px;
+  padding: 0 19px;
+  position: absolute;
+  top: 10px;
+}
+
+.client-section-3 .arrowright-md {
+  height: 24px;
+  width: 24px;
+}
+
+.client-section-3 .continue-to-personal-experience {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 163px;
+}
+
+.client-section-3 .rectangle-26 {
+  border: 1px solid;
+  border-color: var(--black);
+  height: 1px;
+  margin-top: 129px;
+  width: 375px;
+}
