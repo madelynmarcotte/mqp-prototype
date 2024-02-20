@@ -1,5 +1,5 @@
 Final Prototype Draft Link:
-https://madelynmarcotte.github.io/mqp-prototype/Final Draft Prototype/welcome-screen.html
+https://madelynmarcotte.github.io/mqp-prototype/Final-Prototype-Draft/welcome-screen.html
 
 Prototype Evaluation Links:
 
