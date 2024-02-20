@@ -34,7 +34,7 @@
             <div class="update-availability-1">Update Availability</div>
             <!--<div class="x124-to-1210 poppins-normal-black-20px">12/4 to 12/10</div> -->
             <div class="container-center-horizontal">
-        <div class="x124-to-1210 poppins-normal-black-20px">2/5 to 2/9</div>
+        <div class="x124-to-1210 poppins-normal-black-20px">This Week: 2/5 to 2/9</div>
         </div>
           </div>
         </div>
@@ -390,46 +390,7 @@
 
 
 
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-        const tableBody = document.querySelector('tbody');
-        let isDragging = false;
 
-        // Function to handle mouse down event on a cell
-        function handleMouseDown(event) {
-            isDragging = true;
-            event.preventDefault();
-        }
-
-        // Function to handle mouse up event on the document
-        function handleMouseUp() {
-            isDragging = false;
-        }
-
-        // Function to handle mouse enter event on a cell
-        function handleMouseEnter(event) {
-            if (isDragging) {
-                event.target.classList.toggle('highlight');
-            }
-        }
-        // Function to handle click event on a cell
-        function handleCellClick(event) {
-            event.target.classList.toggle('highlight');
-        }
-
-        // Add event listeners to each cell
-        const cells = document.querySelectorAll('td');
-        cells.forEach(cell => {
-            cell.classList.add('draggable');
-            cell.addEventListener('mousedown', handleMouseDown);
-            cell.addEventListener('mouseenter', handleMouseEnter);
-            cell.addEventListener('click', handleCellClick);
-        });
-
-        // Add document-wide event listeners
-        document.addEventListener('mouseup', handleMouseUp);
-    });
-</script>
               
 
         <!--
