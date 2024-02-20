@@ -1,0 +1,198 @@
+/* screen - client-home-screen-4 */
+
+.client-home-screen-4 {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  padding: 14px 7px;
+  width: 375px;
+}
+
+.client-home-screen-4 .group-164 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 13px;
+  margin-top: 53px;
+  min-width: 133px;
+}
+
+.client-home-screen-4 .hello-john-doe {
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  height: 62px;
+  letter-spacing: -0.28px;
+  line-height: 32px;
+}
+
+.client-home-screen-4 .span0 {
+  color: #b9b9b9;
+  letter-spacing: -0.06px;
+}
+
+.client-home-screen-4 .span1 {
+  color: var(--black);
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.08px;
+}
+
+.client-home-screen-4 .group-container {
+  align-self: flex-end;
+  height: 533px;
+  position: relative;
+  width: 360px;
+}
+
+.client-home-screen-4 .group-191 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 366px;
+  left: 307px;
+  min-height: 426px;
+  position: absolute;
+  top: 107px;
+  width: 40px;
+}
+
+.client-home-screen-4 .overlap-group {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  min-width: 40px;
+  padding: 0 10px;
+}
+
+.client-home-screen-4 .interface {
+  height: 20px;
+  width: 20px;
+}
+
+.client-home-screen-4 .group-234 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 63px;
+  left: 0;
+  min-height: 471px;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.client-home-screen-4 .image-7 {
+  height: 360px;
+  object-fit: cover;
+  width: 360px;
+}
+
+.client-home-screen-4 .vector {
+  height: 48px;
+  margin-left: 8.0px;
+  width: 246px;
+}
+
+.client-home-screen-4 .overlap-group3 {
+  align-self: center;
+  height: 68px;
+  margin-right: 17.0px;
+  margin-top: 68px;
+  position: relative;
+  width: 298px;
+}
+
+.client-home-screen-4 .overlap-group1 {
+  height: 68px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 290px;
+}
+
+.client-home-screen-4 .rectangle-3 {
+  height: 61px;
+  left: 154px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}
+
+.client-home-screen-4 .group-232 {
+  align-items: flex-end;
+  display: flex;
+  height: 45px;
+  left: 0;
+  min-width: 290px;
+  position: absolute;
+  top: 23px;
+}
+
+.client-home-screen-4 .place {
+  color: #09d85f;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  min-width: 30px;
+}
+
+.client-home-screen-4 .account {
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 49px;
+  min-width: 43px;
+}
+
+.client-home-screen-4 .matches {
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 39px;
+  min-width: 44px;
+}
+
+.client-home-screen-4 .about-us {
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 39px;
+  min-width: 46px;
+}
+
+.client-home-screen-4 .image-8 {
+  height: 45px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 45px;
+}
+
+.client-home-screen-4 .image-9 {
+  height: 45px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 35px;
+}
+
+.client-home-screen-4 .group-233 {
+  background-image: url(../img/image-11@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 50px;
+  left: 253px;
+  position: absolute;
+  top: 3px;
+  width: 41px;
+}
